@@ -1,6 +1,7 @@
 # gan-toy
 --------------- 
 
+a tool for simple generative adversarial network training
 a small toy for tracking image generation from a bunch of sample images.
 
 1. Running with main.py
